@@ -1,0 +1,10 @@
+[Desktop Entry]
+
+Name=K1D CLIENT
+Comment=Simple yet feature-rich open-source Minecraft client.
+GenericName=K1D CLIENT
+Exec=sol-client %U
+Icon=sol-client.png
+Type=Application
+StartupNotify=true
+Categories=Game;
